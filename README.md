@@ -11,7 +11,7 @@
 ## Project Background
 
 - This dataset has been chosen for it’s possible strong real life implementations and use cases
-- The [initial dataset](# https://www.kaggle.com/lepchenkov/usedcarscatalog) contains more than 38 thousand of entries with 30 features, one of them being the dependent price variable
+- The [initial dataset](https://www.kaggle.com/lepchenkov/usedcarscatalog) contains more than 38 thousand of entries with 30 features, one of them being the dependent price variable
 - For the purpose of this analysis, EDA with visualizations as well as estimation modeling have been given a lot of energy, since a predictive algorithm is where we saw the most use case possible
 
 ## Project outline
