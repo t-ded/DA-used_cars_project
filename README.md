@@ -1,4 +1,4 @@
-# [Analysis of more than 38 000 used cars and prediction of their price - Regression task - Project Overview:](https://t-ded.github.io/t-ded-portfolio/projects/used-cars/)
+# [Analysis of more than 38 000 used cars and prediction of their price - Regression task - Project Overview:](https://t-ded.github.io/t-ded-portfolio/projects/used-cars-market/)
 
 ## Project Summary
 
